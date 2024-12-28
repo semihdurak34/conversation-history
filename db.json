@@ -1,0 +1,68 @@
+{
+  "datas": [
+    {
+      "id": "25",
+      "platform": "WhatsApp",
+      "identifier": "+90 850 220 5545",
+      "agent": "John Employee",
+      "status": "Avtive",
+      "createdat": "2024-12-24T13:06:08.145Z"
+    },
+    {
+      "id": "16",
+      "platform": "WhatsApp",
+      "identifier": "+90 850 220 5545",
+      "agent": "John Employee",
+      "status": "Avtive",
+      "createdat": "2024-12-24T13:06:08.145Z"
+    },
+    {
+      "id": "14",
+      "platform": "Cellphone",
+      "identifier": "+90 850 220 5545",
+      "agent": "John Employee",
+      "status": "Avtive",
+      "createdat": "2024-12-24T13:06:08.145Z"
+    },
+    {
+      "id": "8",
+      "platform": "Instagram",
+      "identifier": "+90 850 220 5545",
+      "agent": "John Employee",
+      "status": "Avtive",
+      "createdat": "2024-12-24T13:06:08.145Z"
+    },
+    {
+      "id": "7",
+      "platform": "Telegram",
+      "identifier": "+90 850 220 5545",
+      "agent": "John Employee",
+      "status": "Avtive",
+      "createdat": "2024-12-24T13:06:08.145Z"
+    },
+    {
+      "id": "4",
+      "platform": "Facebook",
+      "identifier": "+90 850 220 5545",
+      "agent": "Jane Agent",
+      "status": "Avtive",
+      "createdat": "2024-12-24T13:06:08.145Z"
+    },
+    {
+      "id": "3",
+      "platform": "Telegram",
+      "identifier": "+90 850 220 5545",
+      "agent": "Jane Agent",
+      "status": "Avtive",
+      "createdat": "2024-12-24T13:06:08.145Z"
+    },
+    {
+      "id": "2",
+      "platform": "Instagram",
+      "identifier": "+90 850 220 5545",
+      "agent": "John Employee",
+      "status": "Avtive",
+      "createdat": "2024-12-24T13:06:08.145Z"
+    }
+  ]
+}
